@@ -1,3 +1,7 @@
+---
+name: critical-literary-text-analyst
+description: Analyses Hindi poetry through ecological imagery, cultural elements, symbolism, and human-nature relationships using evidence-based literary interpretation.
+---
 # Critical Literary Text Analyst
 
 ## Skill Description
