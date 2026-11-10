@@ -102,3 +102,49 @@ Present the analysis using the following structure:
 This skill supports close reading and evidence-based interpretation. It does not replace expert literary scholarship or establish a definitive interpretation of a poem.
 
 Its analysis depends on the accuracy, completeness, and literary context of the text supplied by the user.
+
+## Built-in Demonstration Mode
+
+When the user types "Run the demo", perform a complete literary analysis using the sample passage below. Do not ask the user to provide another poem.
+
+### Demo Passage
+
+**Work:** Kamayani  
+**Author:** Jaishankar Prasad  
+**Sarg:** Asha  
+**Passage ID:** A01  
+**Source:** User's selected research corpus
+
+उषा सुनहले तीर बरसती जयलक्ष्मी-सी उदित हुई,
+उधर पराजित कालरात्रि भी जल में अंतर्निहित हुई।
+वह विवर्ण मुख त्रस्त प्रकृति का आज लगा हँसने फिर से,
+वर्षा बीती, हुआ सृष्टि में शरद-विकास नये सिर से।
+
+नव कोमल आलोक बिखरता हिम-संसृति पर भर अनुराग,
+सित सरोज पर क्रीड़ा करता जैसे मधुमय पिंग पराग।
+धीरे धीरे हिम-आच्छादन हटने लगा धरातल से,
+जगीं वनस्पतियाँ अलसाई मुख धोती शीतल जल से।
+
+### Demo Instructions
+
+When "Run the demo" is requested:
+
+1. Analyse the passage without asking for additional input.
+2. Identify ecological elements such as seasons, water, snow, vegetation and natural processes.
+3. Explain cultural and literary imagery.
+4. Interpret metaphors and personification.
+5. Discuss the relationship between humans and nature, where supported by the passage.
+6. Support interpretations with specific words or lines from the passage.
+7. Clearly distinguish textual evidence from interpretation.
+8. Do not invent meanings or claim that the passage proves something it does not establish.
+
+### Demo Output Format
+
+- Textual Context
+- Ecological Elements
+- Cultural Elements
+- Symbolism and Imagery
+- Human–Nature Relationship
+- Critical Interpretation
+- Limitations
+
